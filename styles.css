@@ -9,3 +9,15 @@ img{
     margin:-4px;
     border: none;
 }
+.paragrafo{
+    margin-right: 1100px;
+    font-family: cursive;
+    font-size: larger;
+}
+ul> li > abbr{
+    font-size: 22px;
+    margin-left: 0px;
+}
+ul{
+  margin-left: -5px;  
+}
