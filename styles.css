@@ -1,0 +1,11 @@
+.icone{
+    height: 300px;
+    width:250;
+}
+.texto{
+    font-size:23px;
+}
+img{
+    margin:-4px;
+    border: none;
+}
